@@ -1,5 +1,5 @@
 # Advik Nakirikanti
-# Ayush Chintalapani
+
 
 # NBA Statistics App
 
