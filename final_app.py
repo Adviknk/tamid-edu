@@ -1,5 +1,3 @@
-# Advik Nakirikanti
-
 # App with 2 APIS
 
 import pandas as pd
