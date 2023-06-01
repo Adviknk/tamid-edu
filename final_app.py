@@ -1,5 +1,4 @@
 # Advik Nakirikanti
-# Ayush Chintalapani
 
 # App with 2 APIS
 
