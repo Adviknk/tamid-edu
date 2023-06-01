@@ -1,6 +1,3 @@
-# Advik Nakirikanti
-
-
 # NBA Statistics App
 
 import pandas as pd
