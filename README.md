@@ -1,3 +1,4 @@
 # tamid-edu
-TAMID projects including NBA application using apis and a 
-machine learning program to predict trend in the California Housing Market
+TAMID projects including: 
+NBA application in python using apis to get current data
+Machine learning program to predict trends in the California Housing Market
